@@ -11,4 +11,7 @@ Objective: To demonstrate your ability to gather requirements and show advanced 
 * Added new UI components (user IDs group, users list, user ID search label, text field and button).
 * Created Sorting Method (Merge Sort).
 * Ceated Searching Method (Recursive Search).
+* Added new UI component (Export to CSV button).
 * Added CSVHelper third party library (Exporting User objects to CSV).
+* Created CSVRecord class.
+* Created ExportCSV and AddRecord methods.
