@@ -1,9 +1,17 @@
 ### Programming III
 #### Project AT3
-
 Objective: To demonstrate your ability to gather requirements and show advanced skills in programming you will document and deliver a project using some of the techniques you have used during this Semester. You may create anything; however it must be sufficiently complex to meet the requirements listed in Part 3. This may be an external client from industry or otherwise your client is your lecturer
 
 v6 is the last version for this project and has been merged into the master.
+
+##### Question 3 – Implement your solution
+* Must contain dynamic data structures
+* Must contain hashing techniques
+* Must contain sorting algorithm
+* Must contain searching technique
+* Must contain 3rd party library
+* Must have a GUI
+* Must adhere to coding standards
 
 #### Implementations
 ##### v1
