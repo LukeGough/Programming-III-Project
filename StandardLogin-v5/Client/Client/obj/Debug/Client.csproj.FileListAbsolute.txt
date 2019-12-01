@@ -1,0 +1,40 @@
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Client\Client\bin\Debug\Client.exe.config
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Client\Client\bin\Debug\Client.exe
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Client\Client\bin\Debug\Client.pdb
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Client\Client\obj\Debug\Client.ClientForm.resources
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Client\Client\obj\Debug\Client.exe
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Client\Client\obj\Debug\Client.pdb
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Client\Client\bin\Debug\Client.exe.config
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Client\Client\bin\Debug\Client.exe
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Client\Client\bin\Debug\Client.pdb
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Client\Client\obj\Debug\Client.ClientForm.resources
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Client\Client\obj\Debug\Client.exe
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Client\Client\obj\Debug\Client.pdb
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Client\Client\bin\Debug\Client.exe.config
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Client\Client\bin\Debug\Client.exe
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Client\Client\bin\Debug\Client.pdb
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Client\Client\obj\Debug\Client.ClientForm.resources
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Client\Client\obj\Debug\Client.Properties.Resources.resources
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Client\Client\obj\Debug\Client.exe
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Client\Client\obj\Debug\Client.pdb
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Client\Client\bin\Debug\Client.exe.config
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Client\Client\bin\Debug\Client.exe
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Client\Client\bin\Debug\Client.pdb
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Client\Client\obj\Debug\Client.ClientForm.resources
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Client\Client\obj\Debug\Client.Properties.Resources.resources
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Client\Client\obj\Debug\Client.exe
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Client\Client\obj\Debug\Client.pdb

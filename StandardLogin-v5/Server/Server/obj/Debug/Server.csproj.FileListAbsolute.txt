@@ -1,0 +1,62 @@
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Server\Server\bin\Debug\Server.exe.config
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Server\Server\bin\Debug\Server.exe
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Server\Server\bin\Debug\Server.pdb
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Server\Server\obj\Debug\Server.ServerForm.resources
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Server\Server\obj\Debug\Server.exe
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\My1.9\Server\Server\obj\Debug\Server.pdb
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Server\Server\bin\Debug\Server.exe.config
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Server\Server\bin\Debug\Server.exe
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Server\Server\bin\Debug\Server.pdb
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Server\Server\obj\Debug\Server.ServerForm.resources
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Server\Server\obj\Debug\Server.exe
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 4\StandardLogin\Server\Server\obj\Debug\Server.pdb
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\bin\Debug\Server.exe.config
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\bin\Debug\Server.exe
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\bin\Debug\Server.pdb
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.ServerForm.resources
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.Properties.Resources.resources
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.exe
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.pdb
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.ServerForm.resources
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.exe
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.pdb
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\bin\Debug\Server.exe.config
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\bin\Debug\Server.exe
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\bin\Debug\Server.pdb
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\bin\Debug\CsvHelper.dll
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\bin\Debug\System.ValueTuple.dll
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\bin\Debug\System.ValueTuple.xml
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.csproj.CopyComplete
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\bin\Debug\CsvHelper.dll
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\bin\Debug\System.ValueTuple.dll
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\bin\Debug\System.ValueTuple.xml
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin\Server\Server\obj\Debug\Server.csproj.CopyComplete
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\bin\Debug\Server.exe.config
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\bin\Debug\Server.exe
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\bin\Debug\Server.pdb
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\bin\Debug\CsvHelper.dll
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\bin\Debug\System.ValueTuple.dll
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\bin\Debug\System.ValueTuple.xml
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\obj\Debug\Server.ServerForm.resources
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\obj\Debug\Server.Properties.Resources.resources
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\obj\Debug\Server.csproj.CopyComplete
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\obj\Debug\Server.exe
+F:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Project (AT3)\StandardLogin-v4\Server\Server\obj\Debug\Server.pdb
