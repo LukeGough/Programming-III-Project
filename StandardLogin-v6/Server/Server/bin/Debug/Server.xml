@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Server</name>
+    </assembly>
+    <members>
+        <member name="T:Server.CSVRecord">
+            <summary>
+            Class is used to create a CSV Record.
+            </summary>
+        </member>
+        <member name="P:Server.CSVRecord.UserId">
+            <summary>
+            Gets or sets UserID.
+            </summary>
+        </member>
+        <member name="P:Server.CSVRecord.PasswordHash">
+            <summary>
+            Gets or sets PasswordHash.
+            </summary>
+        </member>
+        <member name="P:Server.CSVRecord.Salt">
+            <summary>
+            Gets or sets Salt.
+            </summary>
+        </member>
+        <member name="T:Server.ServerForm">
+            <summary>
+            This is the ServerForm.
+            </summary>
+        </member>
+        <member name="M:Server.ServerForm.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Server.ServerForm"/> class.
+            Initializes this form.
+            </summary>
+        </member>
+        <member name="M:Server.ServerForm.UserLogin(System.Int32,System.String,System.String)">
+            <summary>
+            Method used form logging in a user.
+            </summary>
+            <param name="userId">Variable which passes through the UserId.</param>
+            <param name="password">Variable which passes through the Password.</param>
+            <param name="salt">Variable which passes through the Salt.</param>
+            <returns>Returns a String.</returns>
+        </member>
+        <member name="M:Server.ServerForm.UserCreation(System.Int32,System.String)">
+            <summary>
+            Method used for user creation.
+            </summary>
+            <param name="userId">Variable which passes through the UserId.</param>
+            <param name="password">Variable which passes through the Password.</param>
+            <returns>Returns a string.</returns>
+        </member>
+        <member name="M:Server.ServerForm.AdminUserCreation(System.Int32,System.String)">
+            <summary>
+            Method used to create an admin user.
+            </summary>
+            <param name="userId">Variable which passes through the UserId.</param>
+            <param name="password">Variable which passes through the Password.</param>
+        </member>
+        <member name="F:Server.ServerForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Server.ServerForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Server.ServerForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Server.HashComputer">
+            <summary>
+            Class is used to create a HashComputer.
+            </summary>
+        </member>
+        <member name="M:Server.HashComputer.GetPasswordHashAndSalt(System.String)">
+            <summary>
+            Method is used to Hash and Salt passwords.
+            </summary>
+            <param name="message">Variable which passess through the user input.</param>
+            <returns>Returns a string which has been hashed.</returns>
+        </member>
+        <member name="T:Server.PasswordManager">
+            <summary>
+            Class is used to create a Password Manager.
+            </summary>
+        </member>
+        <member name="M:Server.PasswordManager.GeneratePasswordHash(System.String,System.String@)">
+            <summary>
+            Method to generate a Password Hash.
+            </summary>
+            <param name="plainTextPassword">Variable which passes through the  plain text password.</param>
+            <param name="salt">Variable which passes through the  salt.</param>
+            <returns>Returns a string.</returns>
+        </member>
+        <member name="M:Server.PasswordManager.IsPasswordMatch(System.String,System.String,System.String)">
+            <summary>
+            Method to get if Passwords match.
+            </summary>
+            <param name="password">Variable which passes through the Password.</param>
+            <param name="salt">Variable which passes through the Salt.</param>
+            <param name="hash">Variable which passes through the Password hash.</param>
+            <returns>Returns a Boolean.</returns>
+        </member>
+        <member name="T:Server.PipeServer.MessageReceivedHandler">
+            <summary>
+            Handles messages received from a client pipe
+            </summary>
+            <param name="message">The byte message received</param>
+        </member>
+        <member name="E:Server.PipeServer.MessageReceived">
+            <summary>
+            Event is called whenever a message is received from a client pipe
+            </summary>
+        </member>
+        <member name="T:Server.PipeServer.ClientDisconnectedHandler">
+            <summary>
+            Handles client disconnected messages
+            </summary>
+        </member>
+        <member name="E:Server.PipeServer.ClientDisconnected">
+            <summary>
+            Event is called when a client pipe is severed.
+            </summary>
+        </member>
+        <member name="P:Server.PipeServer.TotalConnectedClients">
+            <summary>
+            The total number of PipeClients connected to this server
+            </summary>
+        </member>
+        <member name="P:Server.PipeServer.PipeName">
+            <summary>
+            The name of the pipe this server is connected to
+            </summary>
+        </member>
+        <member name="P:Server.PipeServer.Running">
+            <summary>
+            Is the server currently running
+            </summary>
+        </member>
+        <member name="M:Server.PipeServer.Start(System.String)">
+            <summary>
+            Starts the pipe server on a particular name.
+            </summary>
+            <param name="pipename">The name of the pipe.</param>
+        </member>
+        <member name="M:Server.PipeServer.SendMessage(System.Byte[])">
+            <summary>
+            Sends a message to all connected clients.
+            </summary>
+            <param name="message">The message to send.</param>
+        </member>
+        <member name="T:Server.Program">
+            <summary>
+            Class represents a Program.
+            </summary>
+        </member>
+        <member name="M:Server.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Server.SaltGenerator">
+            <summary>
+            Class to generate a salt.
+            </summary>
+        </member>
+        <member name="M:Server.SaltGenerator.GetSaltString">
+            <summary>
+            Method to get a salt.
+            </summary>
+            <returns>Returns a string.</returns>
+        </member>
+        <member name="T:Server.User">
+            <summary>
+            Class that represents a User.
+            </summary>
+        </member>
+        <member name="P:Server.User.UserId">
+            <summary>
+            Gets or sets the UserId.
+            </summary>
+        </member>
+        <member name="P:Server.User.PasswordHash">
+            <summary>
+            Gets or sets the PasswordHash.
+            </summary>
+        </member>
+        <member name="P:Server.User.Salt">
+            <summary>
+            Gets or sets the Salt.
+            </summary>
+        </member>
+        <member name="T:Server.UserRepository">
+            <summary>
+            Class that represents a User Repository.
+            </summary>
+        </member>
+        <member name="M:Server.UserRepository.AddUser(Server.User)">
+            <summary>
+            Method to add the user in memory dummy db.
+            </summary>
+            <param name="user">Variable which passes through the User.</param>
+        </member>
+        <member name="M:Server.UserRepository.GetUsers">
+            <summary>
+            Method to get the users.
+            </summary>
+            <returns>Returns a LinkedList of Users.</returns>
+        </member>
+        <member name="M:Server.UserRepository.GetUserIds">
+            <summary>
+            Method to retrieve the user based on the UserId.
+            </summary>
+            <returns>Returns a List of Ints.</returns>
+        </member>
+        <member name="M:Server.UserRepository.GetUser(System.Int32)">
+            <summary>
+            Method to get a User by userId.
+            </summary>
+            <param name="userid">Variable which passes through the userId.</param>
+            <returns>Returns a User.</returns>
+        </member>
+        <member name="M:Server.UserRepository.UserExists(System.Int32)">
+            <summary>
+            Method to check if a User's UserId.
+            </summary>
+            <param name="userid">Variable which passes through the userId.</param>
+            <returns>Returns a Boolean.</returns>
+        </member>
+        <member name="T:Server.Utility">
+            <summary>
+            Class that represents Utility.
+            </summary>
+        </member>
+        <member name="M:Server.Utility.GetBytes(System.String)">
+            <summary>
+            Method to convert string to byte[].
+            </summary>
+            <param name="str">Variable which passes through the string.</param>
+            <returns>Returns a array of btyes.</returns>
+        </member>
+        <member name="M:Server.Utility.GetString(System.Byte[])">
+            <summary>
+            Method to convert byte[] to string.
+            </summary>
+            <param name="bytes">Variable which passes through the array of bytes.</param>
+            <returns>Returns a string.</returns>
+        </member>
+        <member name="T:Server.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Server.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Server.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,10 @@
+﻿// <copyright file="GlobalSuppressions.cs" company="PlaceholderCompany">
+// Copyright (c) PlaceholderCompany. All rights reserved.
+// </copyright>
+
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.NamingRules", "SA1300:Element should begin with upper-case letter", Justification = "Required by Form.", Scope = "member", Target = "~M:Client.ClientForm.btnAnnualSalaries_Click(System.Object,System.EventArgs)")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.NamingRules", "SA1300:Element should begin with upper-case letter", Justification = "Required by Form.", Scope = "member", Target = "~M:Client.ClientForm.btnConnect_Click(System.Object,System.EventArgs)")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.NamingRules", "SA1300:Element should begin with upper-case letter", Justification = "Required by Form.", Scope = "member", Target = "~M:Client.ClientForm.btnLogin_Click(System.Object,System.EventArgs)")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.NamingRules", "SA1300:Element should begin with upper-case letter", Justification = "Required by Form.", Scope = "member", Target = "~M:Client.ClientForm.btnPayroll_Click(System.Object,System.EventArgs)")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.NamingRules", "SA1300:Element should begin with upper-case letter", Justification = "Required by Form.", Scope = "member", Target = "~M:Client.ClientForm.pipeClient_MessageReceived(System.Byte[])")]
+[assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.NamingRules", "SA1300:Element should begin with upper-case letter", Justification = "Required by Form.", Scope = "member", Target = "~M:Client.ClientForm.pipeClient_ServerDisconnected")]

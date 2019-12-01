@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Client</name>
+    </assembly>
+    <members>
+        <member name="T:Client.ClientForm">
+            <summary>
+            Represents ClientForm.
+            </summary>
+        </member>
+        <member name="M:Client.ClientForm.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Client.ClientForm"/> class.
+            </summary>
+        </member>
+        <member name="F:Client.ClientForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Client.ClientForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Client.ClientForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Client.PipeClient">
+            <summary>
+            Allow pipe communication between a server and a client
+            </summary>
+        </member>
+        <member name="T:Client.PipeClient.MessageReceivedHandler">
+            <summary>
+            Handles messages received from a server pipe
+            </summary>
+            <param name="message">The byte message received</param>
+        </member>
+        <member name="E:Client.PipeClient.MessageReceived">
+            <summary>
+            Event is called whenever a message is received from the server pipe
+            </summary>
+        </member>
+        <member name="T:Client.PipeClient.ServerDisconnectedHandler">
+            <summary>
+            Handles server disconnected messages
+            </summary>
+        </member>
+        <member name="E:Client.PipeClient.ServerDisconnected">
+            <summary>
+            Event is called when the server pipe is severed.
+            </summary>
+        </member>
+        <member name="P:Client.PipeClient.Connected">
+            <summary>
+            Is this client connected to a server pipe
+            </summary>
+        </member>
+        <member name="P:Client.PipeClient.PipeName">
+            <summary>
+            The pipe this client is connected to
+            </summary>
+        </member>
+        <member name="M:Client.PipeClient.Connect(System.String)">
+            <summary>
+            Connects to the server with a pipename.
+            </summary>
+            <param name="pipename">The name of the pipe to connect to.</param>
+        </member>
+        <member name="M:Client.PipeClient.Disconnect">
+            <summary>
+            Disconnects from the server.
+            </summary>
+        </member>
+        <member name="M:Client.PipeClient.SendMessage(System.Byte[])">
+            <summary>
+            Sends a message to the server.
+            </summary>
+            <param name="message">The message to send.</param>
+            <returns>True if the message is sent successfully - false otherwise.</returns>
+        </member>
+        <member name="T:Client.Program">
+            <summary>
+            Class that represents Program.
+            </summary>
+        </member>
+        <member name="M:Client.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Client.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Client.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Client.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
