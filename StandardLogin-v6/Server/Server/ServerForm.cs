@@ -280,6 +280,10 @@ namespace Server
                 {
                     this.tbReceived.Text = "Server is currently not running." + "\r\n";
                 }
+                else if (string.IsNullOrEmpty(this.tbSearch.Text))
+                {
+                    this.tbReceived.Text = "Enter a User ID to search for.";
+                }
                 else
                 {
                     // Clear selected in lstUsers
@@ -336,10 +340,18 @@ namespace Server
         {
             try
             {
-                this.ExportCSV();
+                // If server is not running
+                if (!this.pipeServer.Running)
+                {
+                    this.tbReceived.Text = "Server is currently not running." + "\r\n";
+                }
+                else
+                {
+                    this.ExportCSV();
 
-                // Display message to server
-                this.tbReceived.Text = "Users exported to csv.";
+                    // Display message to server
+                    this.tbReceived.Text = "Users exported to csv.";
+                }
             }
             catch (Exception ex)
             {
